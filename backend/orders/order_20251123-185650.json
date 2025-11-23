@@ -1,0 +1,10 @@
+{
+  "drinkType": "latte",
+  "size": "medium",
+  "milk": "oat milk",
+  "extras": [
+    "caramel",
+    "whipped cream"
+  ],
+  "name": "Akhil Gupta"
+}

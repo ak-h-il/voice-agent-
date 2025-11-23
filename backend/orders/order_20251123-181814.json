@@ -1,0 +1,9 @@
+{
+  "drinkType": "latte",
+  "size": "medium",
+  "milk": "almond",
+  "extras": [
+    "cream"
+  ],
+  "name": "Raj"
+}
